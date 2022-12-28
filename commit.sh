@@ -1,2 +1,2 @@
 git add .
-git commit -m "Commit by zsh"
+git commit -m $1
